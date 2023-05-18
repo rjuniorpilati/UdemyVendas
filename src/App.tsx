@@ -1,4 +1,4 @@
-import {SafeAreaView, View, Text} from 'react-native';
+import { SafeAreaView, Text, View } from 'react-native';
 
 const App = () => {
   return (
